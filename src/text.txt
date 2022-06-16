@@ -1,0 +1,11 @@
+npm i -g firebase
+firebase login -
+permitir acceso 
+in console again: firebase init
+"hosting: Configure and deploy firebase hosting sites"
+use an existin project
+select project
+build
+no github
+npm run build
+firebase deploy
